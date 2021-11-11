@@ -1312,7 +1312,17 @@ nav.main-menu {
 .about .about-box figure img {
      width: 100%;
 }
-
+.about .about-box h2 {
+     padding: 0;
+     font-size: 48px;
+     line-height: 60px;
+     font-weight: 400;
+     position: relative;
+     letter-spacing: -0.5px;
+     color: #3ABEFF;
+     border-left: solid #38c8a8 10px;
+     padding-left: 15px;
+}
 .about .about-box h3 {
      font-size: 30px;
      line-height: 30px;
@@ -1456,6 +1466,7 @@ nav.main-menu {
 }
 
 .Our .titlepage h2 {
+     color: #820933;
      float: left;
 }
 
