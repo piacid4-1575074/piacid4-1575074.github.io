@@ -1315,6 +1315,7 @@ nav.main-menu {
 .about .titlepage h2 {
      padding: 0;
      font-size: 48px;
+     font-family: 'Impact', fantasy;
      line-height: 60px;
      font-weight: 400;
      position: relative;
