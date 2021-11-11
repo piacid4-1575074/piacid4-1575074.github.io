@@ -64,7 +64,7 @@ h6 {
      padding: 0 0 15px 0;
      font-weight: normal;
      line-height: normal;
-     color: #D2FDFF;
+     color: #3ABEFF;
      margin: 0
 }
 
@@ -249,14 +249,14 @@ button {
      font-weight: 400;
      position: relative;
      letter-spacing: -0.5px;
-     color: #114c7d;
+     color: #3ABEFF;
      border-left: solid #38c8a8 10px;
      padding-left: 15px;
 }
 
 .main_heading h2 strong {
-     background: #38c8a8;
-     color: #fff;
+     background: #820933;
+     color: #3ABEFF;
      font-weight: 600;
      padding: 0 15px;
      line-height: 68px;
@@ -1670,3 +1670,4 @@ nav.main-menu {
 
 
 /** end footer **/
+
