@@ -34,15 +34,15 @@ html {
 }
 
 body {
-     color: #666666;
+     color: #D2FDFF;
      font-size: 14px;
-     font-family: 'poppins', sans-serif;
+     font-family: 'Times', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
 }
 
 a {
-     color: #1f1f1f;
+     color: #3ABEFF;
      text-decoration: none !important;
      outline: none !important;
      -webkit-transition: all .3s ease-in-out;
@@ -61,19 +61,19 @@ h6 {
      letter-spacing: 0;
      font-weight: normal;
      position: relative;
-     padding: 0 0 10px 0;
+     padding: 0 0 15px 0;
      font-weight: normal;
      line-height: normal;
-     color: #111111;
+     color: #D2FDFF;
      margin: 0
 }
 
 h1 {
-     font-size: 24px
+     font-size: 27px
 }
 
 h2 {
-     font-size: 22px
+     font-size: 20px
 }
 
 h3 {
@@ -106,7 +106,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-     color: #212121;
+     color: #26FFE6;
      text-decoration: none!important;
      opacity: 1
 }
@@ -1670,4 +1670,3 @@ nav.main-menu {
 
 
 /** end footer **/
-
