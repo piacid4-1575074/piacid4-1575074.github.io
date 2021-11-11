@@ -1347,7 +1347,7 @@ nav.main-menu {
 
 .read_more {
      font-size: 16px;
-     background-color: #000;
+     background-color: #5D5F71;
      color: #fff;
      padding: 10px 0px;
      width: 100%;
@@ -1525,6 +1525,7 @@ nav.main-menu {
 }
 
 .read-more {
+     color: #5D5F71
      display: flex;
      justify-content: center;
      flex-wrap: wrap;
@@ -1682,3 +1683,4 @@ nav.main-menu {
 
 
 /** end footer **/
+
